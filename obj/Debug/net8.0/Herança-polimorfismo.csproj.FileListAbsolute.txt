@@ -1,0 +1,14 @@
+C:\Users\Alejandro\Desktop\Cursos\Herança-polimorfismo\bin\Debug\net8.0\Herança-polimorfismo.exe
+C:\Users\Alejandro\Desktop\Cursos\Herança-polimorfismo\bin\Debug\net8.0\Herança-polimorfismo.deps.json
+C:\Users\Alejandro\Desktop\Cursos\Herança-polimorfismo\bin\Debug\net8.0\Herança-polimorfismo.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Cursos\Herança-polimorfismo\bin\Debug\net8.0\Herança-polimorfismo.dll
+C:\Users\Alejandro\Desktop\Cursos\Herança-polimorfismo\bin\Debug\net8.0\Herança-polimorfismo.pdb
+C:\Users\Alejandro\Desktop\Cursos\Herança-polimorfismo\obj\Debug\net8.0\Herança-polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Cursos\Herança-polimorfismo\obj\Debug\net8.0\Herança-polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Cursos\Herança-polimorfismo\obj\Debug\net8.0\Herança-polimorfismo.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Cursos\Herança-polimorfismo\obj\Debug\net8.0\Herança-polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Cursos\Herança-polimorfismo\obj\Debug\net8.0\Herança-polimorfismo.dll
+C:\Users\Alejandro\Desktop\Cursos\Herança-polimorfismo\obj\Debug\net8.0\refint\Herança-polimorfismo.dll
+C:\Users\Alejandro\Desktop\Cursos\Herança-polimorfismo\obj\Debug\net8.0\Herança-polimorfismo.pdb
+C:\Users\Alejandro\Desktop\Cursos\Herança-polimorfismo\obj\Debug\net8.0\Herança-polimorfismo.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Cursos\Herança-polimorfismo\obj\Debug\net8.0\ref\Herança-polimorfismo.dll
