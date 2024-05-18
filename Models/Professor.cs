@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Heranca_polimorfismo.Models;
 
-namespace Herança_polimorfismo.Models
+namespace Heranca_polimorfismo.Models
 {
     public class Professor : Pessoa
     {
